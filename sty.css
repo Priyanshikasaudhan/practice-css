@@ -9,6 +9,9 @@
     background-color: brown;
     color: white ;
 }
+h3{
+    background-color: antiquewhite !important;
+}
 h1,h3{
     color: brown;
 }
@@ -89,4 +92,20 @@ input[type="radio"]:checked + label{
 }
 .post:nth-of-type(4n){
     background-color: aqua;
+}
+h1::first-letter{
+    color: green;
+    font-size: 5rem;
+}
+p::first-line{
+    color: purple;
+}
+p::selection{
+    background-color: goldenrod;
+}
+h3{
+    background-color: yellow;
+}
+h3{
+    background-color: blue;
 }
