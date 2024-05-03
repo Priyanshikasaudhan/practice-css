@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    font-weight: 900px;
+    text-transform: uppercase;
+    border-image-width: auto;
+    letter-spacing: 5px;
+    font-size:150px;
+    background: url("enge.jpeg");
+    background-size: cover;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip:  text;
+}
